@@ -1,0 +1,4 @@
+Em passivos: Potência, Voltagem e Tolerância podem ter suas unidades padronizadas e seus tipos trocados de Text para
+number.
+
+Mesma coisa para alguns parâmetros em Ativos
