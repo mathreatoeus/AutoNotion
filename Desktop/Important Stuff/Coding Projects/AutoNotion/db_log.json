@@ -1,0 +1,186 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "32c210e8-de65-4019-9b5e-58af2daa23ad",
+            "created_time": "2023-03-13T15:07:00.000Z",
+            "last_edited_time": "2023-03-13T15:07:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "65b0b997-f13f-4fa3-a0ec-ee92e89d5a78"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "65b0b997-f13f-4fa3-a0ec-ee92e89d5a78"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "367744f9-e2c6-436a-931e-76dfb3d63daa"
+            },
+            "archived": false,
+            "properties": {
+                "Tipo": {
+                    "id": "%3A%3D%3A%40",
+                    "type": "select",
+                    "select": null
+                },
+                "Status": {
+                    "id": "FDDZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Datasheet": {
+                    "id": "N%3BD%5E",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Quantidade": {
+                    "id": "wOff",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Localização": {
+                    "id": "zNpe",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Valor": {
+                    "id": "~Hx%5E",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": []
+                }
+            },
+            "url": "https://www.notion.so/32c210e8de6540199b5e58af2daa23ad"
+        },
+        {
+            "object": "page",
+            "id": "3b1dce94-b0f0-479c-b31a-576181d16738",
+            "created_time": "2023-03-13T15:07:00.000Z",
+            "last_edited_time": "2023-03-13T15:07:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "65b0b997-f13f-4fa3-a0ec-ee92e89d5a78"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "65b0b997-f13f-4fa3-a0ec-ee92e89d5a78"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "367744f9-e2c6-436a-931e-76dfb3d63daa"
+            },
+            "archived": false,
+            "properties": {
+                "Tipo": {
+                    "id": "%3A%3D%3A%40",
+                    "type": "select",
+                    "select": null
+                },
+                "Status": {
+                    "id": "FDDZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Datasheet": {
+                    "id": "N%3BD%5E",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Quantidade": {
+                    "id": "wOff",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Localização": {
+                    "id": "zNpe",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Valor": {
+                    "id": "~Hx%5E",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": []
+                }
+            },
+            "url": "https://www.notion.so/3b1dce94b0f0479cb31a576181d16738"
+        },
+        {
+            "object": "page",
+            "id": "1b471773-1513-4fe5-bece-4aba3c423334",
+            "created_time": "2023-03-13T15:07:00.000Z",
+            "last_edited_time": "2023-03-13T15:07:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "65b0b997-f13f-4fa3-a0ec-ee92e89d5a78"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "65b0b997-f13f-4fa3-a0ec-ee92e89d5a78"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "367744f9-e2c6-436a-931e-76dfb3d63daa"
+            },
+            "archived": false,
+            "properties": {
+                "Tipo": {
+                    "id": "%3A%3D%3A%40",
+                    "type": "select",
+                    "select": null
+                },
+                "Status": {
+                    "id": "FDDZ",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Datasheet": {
+                    "id": "N%3BD%5E",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Quantidade": {
+                    "id": "wOff",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Localização": {
+                    "id": "zNpe",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Valor": {
+                    "id": "~Hx%5E",
+                    "type": "rich_text",
+                    "rich_text": []
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": []
+                }
+            },
+            "url": "https://www.notion.so/1b47177315134fe5bece4aba3c423334"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page",
+    "page": {}
+}
